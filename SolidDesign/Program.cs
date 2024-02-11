@@ -1,6 +1,5 @@
 ﻿using System;
 
-//Testing branch rule
 public class Program
 {
     static void Main()
